@@ -1,0 +1,30 @@
+Ashe,Tirador,450,260,539,Maná,A distancia,18/04/2009,Disparo congelado,Concentración,Tiro congelado,Halcón explorador,Flecha de cristal
+Garen,Luchador,450,260,620,Sin recurso,Cuerpo a cuerpo,27/04/2010,Decisión,Coraje,Juicio,Perseverancia,Justicia demaciana
+Lux,Mago,3150,790,490,Maná,A distancia,19/10/2010,Luz brillante,Barrera prismática,Singularidad,Última chispa,Iluminación
+Annie,Mago,450,260,524,Maná,A distancia,21/02/2009,Desintegrar,Incinerar,Escudo fundido,Invocación de Tibbers,Piromanía
+Jax,Luchador,1350,585,593,Maná,Cuerpo a cuerpo,21/02/2009,Golpe aplastante,Contraataque,Potenciación,Asalto,Maestría en armas
+Ezreal,Tirador,6300,975,542,Maná,A distancia,16/02/2010,Disparo místico,Esquivar,Rayo de energía,Travesía arcana,Última chispa
+Yasuo,Luchador,6300,975,542,Flujo de viento,Cuerpo a cuerpo,13/12/2013,Soplido de viento,Muro de viento,Tormenta mortal,Cuchillas giratorias,Última voluntad
+Lee Sin,Luchador,4800,880,570,Energía,Cuerpo a cuerpo,04/04/2011,Sonic Wave,Temblor,Cruzada,Dragón del alma,Viento de la tormenta
+Vi,Luchador,4800,880,600,Energía,Cuerpo a cuerpo,01/12/2012,Pulverizador,Golpe de poder,Carga de Vía,Defensa blindada,Asalto de la justicia
+Aatrox,Luchador,4800,880,580,Sin recurso,Cuerpo a cuerpo,13/06/2013,Llama de la venganza,Corte pesado,Rey sanguinario,Oscuridad liberada,Desintegración
+Riven,Luchador,6300,975,500,Energía,Cuerpo a cuerpo,14/03/2012,Corte de viento,Ruptura,Llama cegadora,Valor de Riven,Ira de la espada
+Katarina,Asesino,3150,790,560,Sin recurso,Cuerpo a cuerpo,21/09/2010,Boleadora,Shunpo,Cuchillas voladoras,Renacimiento,Deflagración
+Thresh,Soporte,6300,975,530,Maná,A distancia,13/12/2012,Linterna del alma,Desgarro,Guía de alma,Pasaje sombrío,La condena
+Jhin,Tirador,6300,975,580,Maná,A distancia,01/02/2016,Disparo mortal,Llamado del asesino,Captura en serie,Jardín de flores,La última obra
+Tristana,Tirador,4800,880,560,Maná,A distancia,17/03/2010,Bomba explosiva,Disparo explosivo,Salto cohete,Cargamento explosivo,Tiro explosivo
+Gragas,Tanque,1350,585,600,Maná,Cuerpo a cuerpo,02/10/2009,Trago explosivo,Grasa de barra,Empuje de barra,Pesada resaca,Barril rodante
+Miss Fortune,Tirador,4800,880,530,Maná,A distancia,16/02/2010,Lluvia de balas,Cañón de fuego,Disparo mortal,Aumento de daño,Ricochet mortal
+Nidalee,Asesino,4800,880,530,Maná,A distancia,14/12/2009,Lanzamiento de lanza,Cazadora,Forma de puma,Cura,Frenesí
+Sona,Soporte,3150,790,400,Maná,A distancia,22/02/2010,Armonía,Cascada de sonido,Canción de velocidad,Crescendo,Escudo armonioso
+Jhin,Tirador,6300,975,550,Maná,A distancia,01/02/2016,Disparo mortal,Captura,Frenesí,Estruendo,Última obra
+Kassadin,Asesino,3150,790,530,Maná,Cuerpo a cuerpo,07/02/2009,Riftwalk,Nevoa mortal,Véltimo impulso,Proyección antimagia,Frenesí
+Sivir,Tirador,4800,880,530,Maná,A distancia,21/12/2010,Lanza explosiva,Impulso,Ataca por 5,Armadura de pase,Ultimate
+Kennen,Mago,4800,880,510,Maná,A distancia,17/09/2010,Shuriken eléctrico,Tormenta,Asalto,Emboscado,Tormenta eléctrica
+Akali,Asesino,4800,880,570,Energía,Cuerpo a cuerpo,01/11/2010,Nube de humo,Shuriken de sombra,La danza del caos,Manto de las sombras,Venganza de la Maestra
+Zed,Asesino,6300,975,610,Energía,Cuerpo a cuerpo,14/10/2012,Sombra viviente,Corte mortal,Rastro mortal,Tormenta de sombras,Marca de la muerte
+Kha'Zix,Asesino,6300,975,615,Sin recurso,Cuerpo a cuerpo,27/07/2012,Salto,Rendimiento evolutivo,Devorar,Instinto depredador,Evolución rápida
+Camille,Luchador,6300,975,600,Maná,Cuerpo a cuerpo,30/01/2017,Giro preciso,Patente de acero,Tensión de la trama,Línea de corte,Perfección mecánica
+Irelia,Luchador,4800,880,600,Maná,Cuerpo a cuerpo,13/02/2010,Danza de cuchillas,Ataque por olas,Habilidad de ejecución,Desenlace de la guerra,Invocación de Irelia
+Elise,Asesino,4800,880,520,Maná,A distancia,23/02/2012,Cocoon,Represalia,Forma de araña,Tejer la telaraña,Poder de la araña
+Ryze,Mago,4800,880,600,Maná,Cuerpo a cuerpo,14/12/2009,Tormenta de runas,Runa aplastante,Raíz de las runas,Hechizo de sobrecarga,Convergencia de runas
