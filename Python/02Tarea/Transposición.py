@@ -8,20 +8,12 @@ def ingresar_matriz(tamaño):
         matriz.append(fila)
     return matriz
 
-def transponer3x3(matriz):
+def transponer(matriz):
+    tamaño = len(matriz)
     matriz_trans = []
-    for j in range(3):
+    for j in range(tamaño):
         fila = []
-        for i in range(3):
-            fila.append(matriz[i][j])
-        matriz_trans.append(fila)
-    return matriz_trans
-
-def transponer5x5(matriz):
-    matriz_trans = []
-    for j in range(5):
-        fila = []
-        for i in range(5):
+        for i in range(tamaño):
             fila.append(matriz[i][j])
         matriz_trans.append(fila)
     return matriz_trans
@@ -41,7 +33,7 @@ def main():
 
         if opcion == "1":
             matriz3x3 = ingresar_matriz(3)
-            mtrans3x3 = transponer3x3(matriz3x3)
+            mtrans3x3 = transponer(matriz3x3)
             
             print("Matriz original 3x3: ")
             imprimir_matriz(matriz3x3)
@@ -50,7 +42,7 @@ def main():
 
         elif opcion == "2":
             matriz5x5 = ingresar_matriz(5)
-            mtrans5x5 = transponer5x5(matriz5x5)
+            mtrans5x5 = transponer(matriz5x5)
             
             print("Matriz original 5x5: ")
             imprimir_matriz(matriz5x5)
