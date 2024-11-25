@@ -56,7 +56,7 @@ def crear_interfaz(logica_cola):
     tk.Button(ventana, text="Ver Tamaño", command=manejar_tamano).pack(pady=5)
     tk.Button(ventana, text="Mostrar Cola", command=manejar_mostrar).pack(pady=5)
 
-    etiqueta_pila = tk.Label(ventana, text="Cola Actual: []", font=("Arial", 12))
-    etiqueta_pila.pack(pady=20)
+    etiqueta_cola = tk.Label(ventana, text="Cola Actual: []", font=("Arial", 12))
+    etiqueta_cola.pack(pady=20)
 
     ventana.mainloop()
